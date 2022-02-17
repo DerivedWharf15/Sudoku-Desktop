@@ -444,3 +444,7 @@ nav {
         height: 100vh;
     }
 }
+.heading {
+	font-size: 50px;
+	color: var(--blue);
+}
