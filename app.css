@@ -447,4 +447,5 @@ nav {
 .heading {
 	font-size: 90px;
 	color: var(--blue);
+	text-align: center;
 }
